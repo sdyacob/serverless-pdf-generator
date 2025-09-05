@@ -1,0 +1,5 @@
+{
+  "name": "Serverless PDF Generator",
+  "description": "An application to generate PDFs from form data, simulating a serverless architecture. Users can fill out an invoice form, see a live preview, and generate a downloadable PDF on-demand.",
+  "requestFramePermissions": []
+}
